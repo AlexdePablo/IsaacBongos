@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 097d63ef21df92244ae7880d33dac511, type: 3}
+  m_Name: Buff Damage Item
+  m_EditorClassIdentifier: 
+  m_Id: "Pocion de buffo de da\xF1o"
+  m_Preu: 1
+  m_Description: "Pocion que aumenta temporalmente el da\xF1o"
+  m_Sprite: {fileID: -1168816147, guid: 7074a3104d86c6d40a6f378289927b73, type: 3}
+  m_BuffDamage: 10
+  m_TimeBuffDamage: 10

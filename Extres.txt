@@ -1,0 +1,13 @@
+Extres:
+-Guardar cargar partida con restauracion de referencias, por ejemplo, se guarda la posicion de todos los enemigos y objetos y tambien el tipo de enemigo y objeto que 
+son para reconstruirlo al cargar la partida, y tambien la referencia y el numero de veces que tiene el objeto en el inventario cada jugador.
+-Effector en el jefe que hace que los jugadores vayan hacia el centro del effector para poder hacer un ataque luego (nos parecio un ataque guapo).
+-Los enemigos de carga si se les hace parry cambian a un estado de aturdimiento (dura 0.5 segundos). Los jugadores se buffan los stats (puro rpg).
+-El mapa se genera proceduralmente, las salas son aleatorias, el tipo de enemigos y objetos son aleatorios y su posicion tambien porque me negaba a hacer un mapa colocando 
+cosas por el mundo y dibujar tilemaps.
+-El jugador y los enemigos usan pools de las balas que disparan, para que asi no se creen 86738264574236587456278345 instancias de balas.
+-En la sala del jefe hay cuatro antorchas (si se pueden llamar asi) que son particulas VFX que usan un shader por encima para simular el fuego (quedaba bonic). 
+-Las salas estan iluminadas con luces y hacen sombrecitas :).
+-Cuando el jugador hace un parry correctamente el jugador hace un sonido de parry.
+
+Puede que haya algo mas pero idk

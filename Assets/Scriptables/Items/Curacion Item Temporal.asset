@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f006735817b5d3f40925d646421c4c4f, type: 3}
+  m_Name: Curacion Item Temporal
+  m_EditorClassIdentifier: 
+  m_Id: Pocion de curacion temporal
+  m_Preu: 3
+  m_Description: Cura 1 de vida durante 7 segundos
+  m_Sprite: {fileID: -1839781840, guid: 7074a3104d86c6d40a6f378289927b73, type: 3}
+  m_HPHeal: 1
+  m_TimeHeal: 7
